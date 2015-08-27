@@ -1,0 +1,75 @@
+/*common.css*/
+body{
+  font-family: "microsoft yahei"
+}
+.mar10{
+  margin: 10px;
+}
+.martop10{
+  margin-top:10px;
+}
+.marleft10{
+  margin-left:10px;
+}
+.marright10{
+  margin-right:10px;
+}
+.marbottom10{
+  margin-bottom:10px;
+}
+.padd10{
+  padding: 10px;
+}
+
+.web_con{
+  
+}
+.head_con{
+    min-height: 230px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid #dcdddd;
+    background-color: rgba(165, 170, 214, 0.77);
+    color: #fff;
+}
+.body_con{
+  width: 980px;
+  margin: 0 auto;
+}
+.wap980{
+  width: 980px;
+  margin: 0 auto;
+}
+.bs-example {
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #fff;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: 10px;
+    overflow: auto;
+}
+
+.body_left{
+    width: 30%;
+    border: 1px solid #dcdddd;
+    padding: 0 5%;
+}
+.body_right{
+    width: 68%;
+    border: 1px solid #dcdddd;
+    margin-left: 2%;
+}
+/*prolist*/
+.recommend_pro{
+    border: 1px solid #dcdcdc;
+}
+.recommend_pro .pro_img{
+
+}
